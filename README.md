@@ -183,8 +183,7 @@ The full dataset was used during analysis.
 Data Analyst  
 
 📧 Email: gauravsingh20305566@gmail.com  
-🔗 LinkedIn: linkedin.com/in/gaurav-singh-1083013b7  
-
+🔗 LinkedIn: www.linkedin.com/in/gaurav-singh-1083013b7
 ---
 
 ## ⭐ Skills Demonstrated
