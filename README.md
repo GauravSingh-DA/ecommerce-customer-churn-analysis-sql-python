@@ -61,19 +61,19 @@ Used For:
 ## 📁 Project Structure
 
 ecommerce-customer-churn-analysis-sql-python/
-│
-├── data/
-│ ├── customers_sample.csv
-│ ├── orders_sample.csv
-│ ├── payments_sample.csv
-│ └── reviews_sample.csv
-│
-├── sql/
-│ └── data_cleaning.sql
-│
-├── python/
-│ └── customer_churn_analysis.ipynb
-│
+
+├── dataset/  
+│   ├── customers_sample.csv  
+│   ├── orders_sample.csv  
+│   ├── payments_sample.csv  
+│   └── reviews_sample.csv  
+
+├── sql/  
+│   └── data_cleaning.sql  
+
+├── python/  
+│   └── customer_churn_analysis.ipynb  
+
 └── README.md
 
 ---
