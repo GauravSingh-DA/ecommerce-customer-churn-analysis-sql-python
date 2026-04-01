@@ -62,17 +62,20 @@ Used For:
 
 ecommerce-customer-churn-analysis-sql-python/
 
-├── dataset/  
-│   ├── customers_sample.csv  
-│   ├── orders_sample.csv  
-│   ├── payments_sample.csv  
-│   └── reviews_sample.csv  
+├── dataset/
+│   ├── customers_sample.csv
+│   ├── orders_sample.csv
+│   ├── payments_sample.csv
+│   └── reviews_sample.csv
 
-├── sql/  
-│   └── data_cleaning.sql  
+├── sql/
+│   └── data_cleaning.sql
 
-├── python/  
-│   └── customer_churn_analysis.ipynb  
+├── python/
+│   └── customer_churn_analysis.ipynb
+
+├── presentation/
+│   └── ecommerce_customer_churn_analysis_presentation.pdf
 
 └── README.md
 
